@@ -38,10 +38,8 @@ of wind and rain for each location, the cross correlation, and the monthly avera
 ![](https://github.com/Jacobanderson42/Project2/blob/master/Images/CrossCorrelation.png)
 
 # Graphs for Monthly Average Wind and Rain at Each Location
-![](https://github.com/Jacobanderson42/Project2/blob/master/Images/OregonOffshoreSurfaceMonthlyRain.png)
-![](https://github.com/Jacobanderson42/Project2/blob/master/Images/OregonOffshoreSurfaceMonthlyWind.png)
-![](https://github.com/Jacobanderson42/Project2/blob/master/Images/OregonShelfSurfaceMonthlyRain.png)
-![](https://github.com/Jacobanderson42/Project2/blob/master/Images/OregonShelfSurfaceMonthlyWind.png)
+![](https://github.com/Jacobanderson42/Project2/blob/master/Images/MonthlyRain.png)
+![](https://github.com/Jacobanderson42/Project2/blob/master/Images/MonthlyWind.png)
 
 # Conclusions
 It can be seen from the graphs above that there appears to be a correlation between the rain and wind between the two locations. 
