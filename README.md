@@ -1,7 +1,7 @@
 # Project2
 Project 2 for B ME 450\
-GitHub repository link\
-GitHub code link
+GitHub repository link: https://github.com/Jacobanderson42/Project2\
+GitHub code link: 
 
 # Problem Statement
 This project was looking to analyze the data taken by the meteorology instrument package. We look to be able to plot the wind speed and 
