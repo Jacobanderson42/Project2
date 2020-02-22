@@ -1,6 +1,6 @@
 # Project2
 Project 2 for B ME 450\
-GitHub repository link: https://github.com/Jacobanderson42/Project2\
+GitHub repository link: https://github.com/Jacobanderson42/Project2 \
 GitHub code link: 
 
 # Problem Statement
